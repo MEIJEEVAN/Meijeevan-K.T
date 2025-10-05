@@ -13,8 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/mei_XYZ](https://linktr.ee/mei_XYZ)
 
-- 📫 How to reach me **https://www.linkedin.com/in/meijeevan-kt-845236322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
-
+- 📫 How to reach me <a href="https://linkedin.com/in/meijeevan kt" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meijeevan kt](https://www.linkedin.com/in/meijeevan-kt-845236322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" height="20" width="30" /></a>
 - 📄 Know about my experiences [https://linktr.ee/mei_XYZ](https://linktr.ee/mei_XYZ)
 
 - ⚡ Fun fact **I'm a beginner**
