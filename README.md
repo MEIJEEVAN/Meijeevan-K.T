@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 - 🔭 I’m currently working on projects related to Software & Hardware<br><br>- 🌱 I’m currently learning  AI, ML, DSA, AR & VR<br><br>- 👯 I’m looking to collaborate on projects related to AI, IOT, Backend, AR & VR
 
 
