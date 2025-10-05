@@ -13,14 +13,14 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/mei_XYZ](https://linktr.ee/mei_XYZ)
 
-- 📫 How to reach me <a href="https://linkedin.com/in/meijeevan kt" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meijeevan kt](https://www.linkedin.com/in/meijeevan-kt-845236322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" height="20" width="30" /></a>
+- 📫 How to reach me <a href="https://linkedin.com/in/meijeevan kt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Meijeevan KT" height="20" width="30" /></a>
 - 📄 Know about my experiences [https://linktr.ee/mei_XYZ](https://linktr.ee/mei_XYZ)
 
 - ⚡ Fun fact **I'm a beginner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/meijeevan kt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meijeevan kt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/meijeevan kt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Meijeevan KT" height="30" width="40" /></a>
 <a href="https://kaggle.com/meijeevan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="meijeevan" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/meijeevan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="meijeevan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/meijeevan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="meijeevan" height="30" width="40" /></a>
