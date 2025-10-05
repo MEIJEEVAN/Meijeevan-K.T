@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm M</h1>
+<h1 align="center">Hi 👋, I'm Meijeevan</h1>
 <h3 align="center">A Student who is passionate in Tech from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meijeevan&label=Profile%20views&color=0e75b6&style=flat" alt="meijeevan" /> </p>
